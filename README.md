@@ -1,4 +1,4 @@
-# Goanna AWS Restart 
+# Goanna Restart 
 ## This repository contains materials used for Teaching and Learning
 
 ### Setup your own GitHub repo
