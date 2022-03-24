@@ -1,4 +1,7 @@
 #Determine the grades based on marks from arguments
+
+
+
 #Enter the student name from STDIN
 
 import sys 
