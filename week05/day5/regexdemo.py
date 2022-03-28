@@ -22,8 +22,11 @@ found = re.findall("\d{2}",txt) #Return a list of 2-digits
 
 found = re.findall("\^",txt) #Return the carrots in the string
 
-
 found = re.findall("\d{3} | #",txt) #Returns a list of 3 digits and hashes
 #print(found)
 
+found = re.findall("python",txt)
+print(found)
+replaced = re.sub('python','java',txt,flags=re.IGNORECASE) #replaces python with java
+print(replaced)
 
